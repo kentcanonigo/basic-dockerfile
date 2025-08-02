@@ -11,9 +11,6 @@ This is a minimal Docker project that demonstrates how to build and run a contai
 - Prints a greeting using a runtime-provided argument
 
 ## 🗂️ Files
-.
-├── Dockerfile
-└── run_script.sh
 
 - `run_script.sh`: A basic shell script that greets the user.
 - `Dockerfile`: Sets up the Alpine environment and configures the container to run the script.
